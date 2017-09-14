@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://sanathko.github.io/"
 languageCode = "en-us"
-title = "Agency"
+title = "Sanath Kodikara"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Sanath Kodikara"
+  description = "Sanath Kodikara personal web"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -260,7 +260,7 @@ She worked at Pied Piper for years until they went belly up."""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    # postURL = "https://example.com/mailout/"
+    # postURL = "https://sanathko.github.io/mailout/"
 
     email = "your@email.com"
 
